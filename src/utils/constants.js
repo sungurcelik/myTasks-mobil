@@ -4,7 +4,7 @@ import {AppColors} from '../theme/colors';
 export const status = {
   ONGOING: 1,
   PENDING: 2,
-  COMPATED: 3,
+  COMPLATED: 3,
   CANCEL: 4,
 };
 
